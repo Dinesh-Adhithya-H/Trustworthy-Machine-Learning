@@ -1,3 +1,11 @@
+# no big files
+*.zip
+*.gz
+*.tar
+*.pt
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
