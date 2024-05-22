@@ -3,6 +3,7 @@
 *.gz
 *.tar
 *.pt
+mnist_data/
 
 
 
